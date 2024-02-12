@@ -21,7 +21,7 @@ import com.example.springboot.model.Employee;
 import com.example.springboot.repository.EmployeeRepository;
 
 @RestController
-@RequestMapping("/api/v1/")
+@RequestMapping("/api/")
 @CrossOrigin
 //Test commit
 public class EmployeeController {
